@@ -1,0 +1,42 @@
+.color{
+    background-color: blue;
+}
+.div {
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.cl{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.b{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.sp{
+    margin-bottom: 20px;
+}
+
+.result{
+    margin-top: 40px;
+}
+
+.jtxt{
+    padding: 50px;
+}
+
+.con{
+    padding: 80px;
+}
+
+.btnm{
+    margin-top: 10px;
+    margin-left: 10px;
+}
