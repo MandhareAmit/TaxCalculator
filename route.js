@@ -3,9 +3,8 @@ const router = express.Router();
 
 // get request for home page
 router.get('/', (req, res) => {
-    const num = 10;
-    const value = 10;
-    res.render('home.ejs', {v: value}); 
+    
+    res.render('home.ejs'); 
      
 
 })
